@@ -1,1 +1,0 @@
-# laravel-nextjs-memo
